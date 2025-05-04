@@ -1,30 +1,54 @@
-# 👾 Michal Schiller
+<!-- CRT-glow mode: ON -->
 
-[![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mschiller890&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mschiller890&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">👾 Michal Schiller 👾</h1>
+<p align="center">
+  <i>"Definitely not building Skynet (yet)."</i>
+</p>
 
----
-
-## 👾 About Me
-
-Hey there! I'm **Michal Schiller**, a 16-year-old tech enthusiast who's always diving into the world of coding. While I might not always finish my projects (who does, right?), I’m constantly exploring new ideas, experimenting, and learning along the way.
-
-Whether it’s building a random web app, experimenting with code in C#, or tinkering with Python scripts, I'm always up to something new. If you find any of my unfinished projects interesting, feel free to reach out!
-
-### 🚀 Tech Stack
-- 💻 **C#** – Building desktop apps and small utilities  
-- 📱 **Java & Kotlin** – From small apps to Android development  
-- 🐍 **Python** – For scripting, automation, and experimentation  
-- 🌐 **HTML, CSS & JS** – Crafting web pages, creative layouts, and interactive features  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mschiller890&show_icons=true&theme=radical" alt="Michal's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mschiller890&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 📫 Let's Connect
+## 🧠 About Me (aka why I'm always in 10 tabs and 3 terminals)
 
-Got a cool project idea? Want to nerd out about retro tech?  
-Hit me up via [GitHub Discussions](https://github.com/mschiller890) or drop a message if you find something interesting!
+Heyo! I'm **Michal Schiller**, a 16-year-old tech gremlin who lives somewhere between VSCode and the void.  
+I specialize in starting cool projects, vibing with code, and then forgetting about them when a new shiny idea shows up.  
+(It's not a bug, it’s a feature.)
+
+Here’s what I *think* I do:
+
+- 🖥️ **C#** – Building tiny tools and desktop wizardry (I break Windows so you don’t have to)
+- 📱 **Java/Kotlin** – Once tried to make an Android app... now my phone won’t stop crashing
+- 🐍 **Python** – Automating stuff I could easily do manually in 5 minutes... but where’s the fun in that?
+- 🌐 **HTML/CSS/JS** – I make websites that may or may not look like they time-traveled from the 90s (on purpose)
+
+---
+
+## 💾 Current Status: Buffering...
+
+- Working on like, 7 projects at once. Will I finish them? *No.*
+- Learning random tech at 3AM and pretending it's productive
+- Rewatching old hacker movies for "research"
+
+---
+
+## 🚀 Wanna Collaborate?
+
+If you also:
+- Start projects with no end in sight
+- Get distracted by tweaking the README instead of coding
+- Think blinking cursors are ✨aesthetic✨
+
+Then we’re basically soulmates.
+
+Feel free to explore, fork, star, or just lurk. If you wanna chat, pitch an idea, or send memes, you know where the buttons are.
 
 ---
 
 > "Keep experimenting. Break things. Learn more. That's the fun of it."
 
+<!-- Warning: May contain outdated projects, broken ideas, and pure chaos. Enjoy responsibly. -->
