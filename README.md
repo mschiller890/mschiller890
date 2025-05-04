@@ -1,2 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mschiller890)
 ![GitHub followers](https://img.shields.io/github/followers/mschiller890?style=social)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mschiller890&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mschiller890&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
