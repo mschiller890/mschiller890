@@ -1,37 +1,36 @@
-<!-- CRT-glow mode: ON -->
-
-<h1 align="center">👾 Michal Schiller 👾</h1>
-
----
-
-## About Me (aka why I'm always in 10 tabs and 3 terminals)
-
-Heyo! I'm **Michal Schiller**, a 16-year-old tech gremlin who lives somewhere between VSCode and the void.  
-I specialize in starting cool projects, vibing with code, and then forgetting about them when a new shiny idea shows up.  
-(It's not a bug, it’s a feature.)
-
-Here’s what I *think* I do:
-
--  **C#** – Building tiny tools and desktop wizardry (I break Windows so you don’t have to)
--  **Java/Kotlin** – Once tried to make an Android app... now my phone won’t stop crashing
--  **Python** – Automating stuff I could easily do manually in 5 minutes... but where’s the fun in that?
--  **HTML/CSS/JS** – I make websites that may or may not look like they time-traveled from the 90s (on purpose)
-
----
-
-##  Wanna Collab?
-
-If you also:
-- Start projects with no end in sight
-- Get distracted by tweaking the README instead of coding
-- Think blinking cursors are ✨aesthetic✨
-
-Then we’re basically soulmates.
-
-Feel free to explore, fork, star, or just lurk. If you wanna chat, pitch an idea, or send memes, you know where the buttons are.
-
----
-
-> "Keep experimenting. Break things. Learn more. That's the fun of it."
-
-<!-- Warning: May contain outdated projects, broken ideas, and pure chaos. Enjoy responsibly. -->
+┌────────────────────────────────────────────────────────────────────────────┐
+│ 👾 Michal Schiller - ~/Projects/chaos-mode                                 │
+├────────────────────────────────────────────────────────────────────────────┤
+│                                                                            │
+│ Heyo! I'm Michal Schiller, a 16-year-old tech gremlin who lives somewhere │
+│ between VSCode and the void.                                              │
+│                                                                            │
+│ I specialize in starting cool projects, vibing with code, and then        │
+│ forgetting about them when a new shiny idea shows up.                     │
+│ (It's not a bug, it’s a feature.)                                         │
+│                                                                            │
+│ ┌─ What I *think* I do: ─────────────────────────────────────────────────┐ │
+│ │                                                                      │ │
+│ │  • C# – Tiny tools & Windows wizardry (I break it so you don’t have) │ │
+│ │  • Java/Kotlin – Made an app, broke my phone. Worth it.             │ │
+│ │  • Python – Automating what I could do manually in 5 mins           │ │
+│ │  • HTML/CSS/JS – Web time-travel to the 90s (on purpose)            │ │
+│ │                                                                      │ │
+│ └──────────────────────────────────────────────────────────────────────┘ │
+│                                                                            │
+│ ┌─ Wanna Collab? ────────────────────────────────────────────────────────┐ │
+│ │                                                                      │ │
+│ │  If you also:                                                       │ │
+│ │  • Start endless projects                                           │ │
+│ │  • Spend 4 hours tweaking the README                                │ │
+│ │  • Think blinking cursors are ✨aesthetic✨                         │ │
+│ │                                                                      │ │
+│ │  Then we’re basically soulmates.                                     │ │
+│ │  Feel free to fork, star, lurk, or reach out.                        │ │
+│ │                                                                      │ │
+│ └──────────────────────────────────────────────────────────────────────┘ │
+│                                                                            │
+│ > "Keep experimenting. Break things. Learn more. That's the fun of it."   │
+│                                                                            │
+│ ⚠️  May contain outdated projects, broken ideas, and pure chaos. Enjoy!   │
+└────────────────────────────────────────────────────────────────────────────┘
