@@ -1,15 +1,6 @@
 <!-- CRT-glow mode: ON -->
 
 <h1 align="center">👾 Michal Schiller 👾</h1>
-<p align="center">
-  <i>"Definitely not building Skynet (yet)."</i>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mschiller890&show_icons=true&theme=radical" alt="Michal's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mschiller890&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
