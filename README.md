@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 About Me (aka why I'm always in 10 tabs and 3 terminals)
+## About Me (aka why I'm always in 10 tabs and 3 terminals)
 
 Heyo! I'm **Michal Schiller**, a 16-year-old tech gremlin who lives somewhere between VSCode and the void.  
 I specialize in starting cool projects, vibing with code, and then forgetting about them when a new shiny idea shows up.  
@@ -12,22 +12,14 @@ I specialize in starting cool projects, vibing with code, and then forgetting ab
 
 Here’s what I *think* I do:
 
-- 🖥️ **C#** – Building tiny tools and desktop wizardry (I break Windows so you don’t have to)
-- 📱 **Java/Kotlin** – Once tried to make an Android app... now my phone won’t stop crashing
-- 🐍 **Python** – Automating stuff I could easily do manually in 5 minutes... but where’s the fun in that?
-- 🌐 **HTML/CSS/JS** – I make websites that may or may not look like they time-traveled from the 90s (on purpose)
+-  **C#** – Building tiny tools and desktop wizardry (I break Windows so you don’t have to)
+-  **Java/Kotlin** – Once tried to make an Android app... now my phone won’t stop crashing
+-  **Python** – Automating stuff I could easily do manually in 5 minutes... but where’s the fun in that?
+-  **HTML/CSS/JS** – I make websites that may or may not look like they time-traveled from the 90s (on purpose)
 
 ---
 
-## 💾 Current Status: Buffering...
-
-- Working on like, 7 projects at once. Will I finish them? *No.*
-- Learning random tech at 3AM and pretending it's productive
-- Rewatching old hacker movies for "research"
-
----
-
-## 🚀 Wanna Collaborate?
+##  Wanna Collab?
 
 If you also:
 - Start projects with no end in sight
