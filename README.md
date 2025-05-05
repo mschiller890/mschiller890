@@ -24,7 +24,7 @@
 │ │ If you also:                                           │ │
 │ │ • Start projects with no end in sight                  │ │
 │ │ • Spend 3 hours tweaking the README                    │ │
-│ │ • Think blinking cursors are ✨aesthetic✨            │ │
+│ │ • Think blinking cursors are aesthetic                 │ │
 │ │                                                        │ │
 │ │ Then we’re basically soulmates.                        │ │
 │ │ Fork, star, lurk, or hit me up.                        │ │
