@@ -31,7 +31,7 @@ Design Vibe:   Minimal | Modern | Efficient
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 | GitHub Stats | Top Languages | Streak |
 |--------------|---------------|--------|
