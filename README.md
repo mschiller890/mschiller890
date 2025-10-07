@@ -29,11 +29,8 @@ Design Vibe:   Minimal | Modern | Efficient
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JS Badge" />
 </p>
 
----
-
-## GitHub Stats
-
 <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=mschiller890&show_icons=true&theme=tokyonight&hide_border=true" height="140"> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mschiller890&layout=compact&theme=tokyonight&hide_border=true" height="140"> </td> <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mschiller890&theme=tokyonight&hide_border=true" height="140"> </td> </tr> </table>
+
 ---
 
 > _“Half the fun is breaking it before fixing it.”_  
