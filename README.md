@@ -33,5 +33,4 @@ Design Vibe:   Minimal | Modern | Efficient
 
 ---
 
-> _“Half the fun is breaking it before fixing it.”_  
-> — Me, after debugging for 3 hours
+> _"Build what doesn't exist."_
