@@ -1,4 +1,4 @@
-# Hey, I’m Michal Schiller
+![Header](./github-header-banner.png)
 
 I’m a 16-year-old developer who loves **tech, coffee, and unfinished side projects**.  
 I spend way too much time building random stuff in **C#, Java, Python, HTML, CSS, and JavaScript** — and even more time breaking it.
