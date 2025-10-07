@@ -33,13 +33,7 @@ Design Vibe:   Minimal | Modern | Efficient
 
 ## GitHub Stats
 
-<div style="display: flex; gap: 10px; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mschiller890&show_icons=true&theme=tokyonight&hide_border=true" height="140">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mschiller890&layout=compact&theme=tokyonight&hide_border=true" height="140">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mschiller890&theme=tokyonight&hide_border=true" height="140">
-</div>
-
-
+<table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=mschiller890&show_icons=true&theme=tokyonight&hide_border=true" height="140"> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mschiller890&layout=compact&theme=tokyonight&hide_border=true" height="140"> </td> <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mschiller890&theme=tokyonight&hide_border=true" height="140"> </td> </tr> </table>
 ---
 
 > _“Half the fun is breaking it before fixing it.”_  
