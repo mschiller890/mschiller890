@@ -16,10 +16,14 @@ I spend way too much time building random stuff in **C#, Java, Python, HTML, CSS
 
 ## Tech Stack
 ```
-Languages:     C#      | Java    | Python  | HTML   | CSS    | JavaScript
-Tools:         VS Code | VS 2022 | PyCharm | Android Studio 
-Web Stuff:     Node.js | React (trying to learn)
-Design Vibe:   Minimal | Modern  | Efficient
++-------------------+----------------------------------------------------------+
+| Category          | Technologies                                             |
++-------------------+----------------------------------------------------------+
+| Languages         | C#, Java, Python, HTML, CSS, JavaScript                  |
+| Tools & IDEs      | Visual Studio 2022, VS Code, PyCharm, Android Studio     |
+| Web Development   | Node.js, React (learning)                                |
+| Design Style      | Minimal, Modern, Efficient                               |
++-------------------+----------------------------------------------------------+
 ```
 
 <p align="center">
