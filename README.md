@@ -16,10 +16,10 @@ I spend way too much time building random stuff in **C#, Java, Python, HTML, CSS
 
 ## Tech Stack
 ```
-Languages:     C# | Java | Python | HTML | CSS | JavaScript
+Languages:     C#      | Java    | Python | HTML | CSS | JavaScript
 Tools:         VS Code | VS 2022 | PyCharm | Android Studio 
 Web Stuff:     Node.js | React (trying to learn)
-Design Vibe:   Minimal | Modern | Efficient
+Design Vibe:   Minimal | Modern  | Efficient
 ```
 
 <p align="center">
