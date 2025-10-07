@@ -17,7 +17,7 @@ I spend way too much time building random stuff in **C#, Java, Python, HTML, CSS
 ## Tech Stack
 ```
 ╔════════════════╦════════════════════════════════════════════╗
-║ Category         ║ Technologies                               ║
+║ Category          ║ Technologies                               ║
 ╠════════════════╬════════════════════════════════════════════╣
 ║ Languages      ║ C#, Java, Python, HTML, CSS, JavaScript     ║
 ║ Tools & IDEs   ║ Visual Studio, VS Code, PyCharm, Android St.║
