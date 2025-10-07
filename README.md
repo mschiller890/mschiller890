@@ -17,10 +17,10 @@ I spend way too much time building random stuff in **C#, Java, Python, HTML, CSS
 ## Tech Stack
 ```
 ╭────────────────┬──────────────────────────────────────────────╮
-│ 🧠 Languages     │ C#, Java, Python, HTML, CSS, JavaScript       │
-│ 🧰 Tools & IDEs  │ Visual Studio, VS Code, PyCharm, Android Studio│
-│ 🌐 Web Dev       │ Node.js, React (learning)                     │
-│ 🎨 Style         │ Minimal • Modern • Efficient                  │
+│ 🧠 Languages      │ C#, Java, Python, HTML, CSS, JavaScript       │
+│ 🧰 Tools & IDEs   │ Visual Studio, VS Code, PyCharm, Android Studio│
+│ 🌐 Web Dev        │ Node.js, React (learning)                     │
+│ 🎨 Style          │ Minimal • Modern • Efficient                  │
 ╰────────────────┴──────────────────────────────────────────────╯
 ```
 
