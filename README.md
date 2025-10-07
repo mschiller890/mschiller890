@@ -1,5 +1,7 @@
 ![Header](./github-header-banner.png)
 
+<table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=mschiller890&show_icons=true&theme=tokyonight&hide_border=true" height="140"> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mschiller890&layout=compact&theme=tokyonight&hide_border=true" height="140"> </td> <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mschiller890&theme=tokyonight&hide_border=true" height="140"> </td> </tr> </table>
+
 I’m a 16-year-old developer who loves **tech, coffee, and unfinished side projects**.  
 I spend way too much time building random stuff in **C#, Java, Python, HTML, CSS, and JavaScript** — and even more time breaking it.
 
@@ -28,8 +30,6 @@ Design Vibe:   Minimal | Modern | Efficient
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" />
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JS Badge" />
 </p>
-
-<table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=mschiller890&show_icons=true&theme=tokyonight&hide_border=true" height="140"> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mschiller890&layout=compact&theme=tokyonight&hide_border=true" height="140"> </td> <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mschiller890&theme=tokyonight&hide_border=true" height="140"> </td> </tr> </table>
 
 ---
 
