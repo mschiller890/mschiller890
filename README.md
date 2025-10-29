@@ -20,7 +20,7 @@ I spend way too much time building random stuff in **C#, Java, Python, HTML, CSS
 | Category          | Technologies                                             |  
 +-------------------+----------------------------------------------------------+  
 | Languages         | C#, Java, Python, HTML, CSS, JavaScript                  |  
-| Tools & IDEs      | Visual Studio 2022, VS Code, PyCharm, Android Studio     |  
+| Tools & IDEs      | Visual Studio 2022, VS Code, Android Studio              |  
 | Web Development   | Node.js, React (learning)                                |  
 | Design Style      | Minimal, Modern, Efficient                               |  
 +-------------------+----------------------------------------------------------+
