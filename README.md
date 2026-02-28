@@ -1,40 +1,29 @@
-![Header](./github-header-banner.png)
+# hey,
 
-<table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=mschiller890&show_icons=true&theme=tokyonight&hide_border=true" height="140"> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mschiller890&layout=compact&theme=tokyonight&hide_border=true" height="140"> </td> <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mschiller890&theme=tokyonight&hide_border=true" height="140"> </td> </tr> </table>
+> build what does not exist.
 
-I’m a 17-year-old developer who loves **tech, coffee, and unfinished side projects**.  
-I spend way too much time building random stuff in **C#, Java, Python, HTML, CSS, and JavaScript** — and even more time breaking it.
+i am a 17 year old developer who enjoys creating things that start as random ideas and slowly turn into real systems.
 
----
+my first introduction to programming was writing batch scripts at 9 years old. since then, i have explored multiple languages and environments not just to use them, but to understand how they work underneath.
 
-## About Me
-- I love experimenting with code and making weird little projects just for fun.  
-- Always learning something new (currently: probably debugging something that worked yesterday).  
-- Big fan of clean code, messy desks, and old tech aesthetics.
+i am interested in building software that feels intentional: tools, experiments, small systems, and projects that solve problems i notice.
 
----
+## tech stack
 
-## Tech Stack
-```
-+-------------------+----------------------------------------------------------+  
-| Category          | Technologies                                             |  
-+-------------------+----------------------------------------------------------+  
-| Languages         | C#, Java, Python, HTML, CSS, JavaScript                  |  
-| Tools & IDEs      | Visual Studio 2022, VS Code, Android Studio              |  
-| Web Development   | Node.js, React (learning)                                |  
-| Design Style      | Minimal, Modern, Efficient                               |  
-+-------------------+----------------------------------------------------------+
-```
+- html / css / javascript  
+- python  
+- c#
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge" />
-  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" />
-  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JS Badge" />
-</p>
+## interests
+
+- custom tools and utilities  
+- game development concepts  
+- system level tweaks  
+- rebuilding existing ideas in my own way  
+
+i am always learning, always experimenting, and always building.
 
 ---
 
-> _"Build what doesn't exist."_
+i do not just use software.  
+i try to understand it.
