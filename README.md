@@ -1,4 +1,4 @@
-# hey,
+# hey, ![visits](https://komarev.com/ghpvc/?username=mschiller890&label=visits&color=0e0e0e&style=flat)
 
 > build what does not exist.
 
@@ -28,4 +28,4 @@ i am always learning, always experimenting, and always building.
 i do not just use software.  
 i try to understand it.
 
-https://komarev.com/ghpvc/?username=mschiller890&label=visits&color=0e0e0e&style=flat
+
