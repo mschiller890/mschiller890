@@ -2,11 +2,11 @@
 
 > build what does not exist.
 
-i am a 17 year old developer who enjoys creating things that start as random ideas and slowly turn into real systems.
+i am a 17 year old developer who enjoys creating things that start as random ideas and slowly turn into real things somehow.
 
 my first introduction to programming was writing batch scripts at 9 years old. since then, i have explored multiple languages and environments not just to use them, but to understand how they work underneath.
 
-i am interested in building software that feels intentional: tools, experiments, small systems, and projects that solve problems i notice.
+i am interested in building software that feels intentional: tools, experiments, and projects that solve problems i notice.
 
 ## tech stack
 
