@@ -2,30 +2,28 @@
 
 > build what does not exist.
 
-i am a 17 year old developer who enjoys creating things that start as random ideas and slowly turn into real things somehow.
+i’m a 17-year-old developer who likes taking random ideas and somehow turning them into actual things.  
 
-my first introduction to programming was writing batch scripts at 9 years old. since then, i have explored multiple languages and environments not just to use them, but to understand how they work underneath.
+my first programming adventure was writing batch scripts at 9. ever since, i’ve poked around in lots of languages and environments — not just to use them, but to see how they tick under the hood.  
 
-i am interested in building software that feels intentional: tools, experiments, and projects that solve problems i notice.
+i like building software that feels intentional: little experiments, useful tools, or projects that solve problems i notice (or just for fun).  
 
 ## tech stack
 
 - html / css / javascript  
 - python  
-- c#
+- c#  
 
 ## interests
 
-- custom tools and utilities  
-- game development concepts  
-- system level tweaks  
-- rebuilding existing ideas in my own way  
+- quirky tools and utilities  
+- game dev experiments  
+- system tweaks  
+- taking existing ideas and remixing them my way  
 
-i am always learning, always experimenting, and always building.
+i’m always learning, always experimenting, and always building.  
 
 ---
 
-i do not just use software.  
+i don’t just use software.  
 i try to understand it.
-
-
