@@ -12,7 +12,8 @@ i like building software that feels intentional: little experiments, useful tool
 
 - html / css / javascript  
 - python  
-- c#  
+- c#
+- java
 
 ## interests
 
