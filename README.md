@@ -2,29 +2,29 @@
 
 > build what does not exist.
 
-i’m a 17-year-old developer who likes taking random ideas and somehow turning them into actual things.  
+17, been writing code since batch scripts at age 9. i jump between languages not just to use them, but to understand how they actually work under the hood.
 
-my first programming adventure was writing batch scripts at 9. ever since, i’ve poked around in lots of languages and environments — not just to use them, but to see how they tick under the hood.  
-
-i like building software that feels intentional: little experiments, useful tools, or projects that solve problems i notice (or just for fun).  
+i build whatever sticks in my head — little experiments, tools that solve things i notice, or just stuff for the sake of making it.
 
 ## tech stack
 
-- html / css / javascript  
-- python  
-- c#
-- java
+html / css / javascript · python · c# · java
 
-## interests
+## what i make
 
-- quirky tools and utilities  
-- game dev experiments  
-- system tweaks  
-- taking existing ideas and remixing them my way  
+- quirky tools and utilities
+- game dev experiments
+- system tweaks
+- remixing existing ideas into something mine
 
-i’m always learning, always experimenting, and always building.  
+always learning, always building.
 
 ---
 
-i don’t just use software.  
-i try to understand it.
+i don't just use software. i try to understand it.
+
+---
+
+![contributions](https://mschiller890.github.io/stats/contribution-ascii.svg)
+![streak](https://mschiller890.github.io/stats/streak.svg)
+![languages](https://mschiller890.github.io/stats/languages.svg)
