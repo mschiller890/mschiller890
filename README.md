@@ -10,6 +10,8 @@ i build whatever sticks in my head — little experiments, tools that solve thin
 
 html / css / javascript · python · c# · java
 
+![languages](https://mschiller890.github.io/stats/languages.svg)
+
 ## what i make
 
 - quirky tools and utilities
@@ -19,12 +21,6 @@ html / css / javascript · python · c# · java
 
 always learning, always building.
 
----
-
 i don't just use software. i try to understand it.
 
----
-
 ![contributions](https://mschiller890.github.io/stats/contribution-ascii.svg)
-![streak](https://mschiller890.github.io/stats/streak.svg)
-![languages](https://mschiller890.github.io/stats/languages.svg)
