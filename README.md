@@ -9,6 +9,12 @@
   </sub>
   <br>
   <br>
+  <img src="https://mschiller890.github.io/github-ascii-stats/title-1.svg" alt="contributions">
+  <br>
+  <img src="https://mschiller890.github.io/github-ascii-stats/title-2.svg" alt="contributions">
+  <br>
+  <img src="https://mschiller890.github.io/github-ascii-stats/title-3.svg" alt="contributions">
+  <br>
   <img src="https://mschiller890.github.io/github-ascii-stats/languages.svg" alt="contributions">
   <img src="https://mschiller890.github.io/github-ascii-stats/contribution-ascii.svg" alt="contributions">
 </p>
