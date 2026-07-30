@@ -7,14 +7,34 @@
   <sub>
     <img src="https://komarev.com/ghpvc/?username=mschiller890&label=visits&color=0e0e0e&style=flat" alt="visits">
   </sub>
+</p>
+
+<!-- <p align="center">
+  <img src="https://mschiller890.github.io/github-ascii-stats/title-1.svg" alt="title">
+</p>
+
+<p align="center">
+  text here
+</p>
+
+<p align="center">
+  <img src="https://mschiller890.github.io/github-ascii-stats/title-2.svg" alt="title">
+</p>
+
+<p align="center">
+  and here
+</p>
+
+<p align="center">
+  <img src="https://mschiller890.github.io/github-ascii-stats/title-3.svg" alt="title">
+</p>
+
+<p align="center">
+  and here
+</p> -->
+
+<p align="center">
+  <img src="https://mschiller890.github.io/github-ascii-stats/languages.svg" alt="languages">
   <br>
-  <br>
-  <img src="https://mschiller890.github.io/github-ascii-stats/title-1.svg" alt="contributions">
-  <br>
-  <img src="https://mschiller890.github.io/github-ascii-stats/title-2.svg" alt="contributions">
-  <br>
-  <img src="https://mschiller890.github.io/github-ascii-stats/title-3.svg" alt="contributions">
-  <br>
-  <img src="https://mschiller890.github.io/github-ascii-stats/languages.svg" alt="contributions">
   <img src="https://mschiller890.github.io/github-ascii-stats/contribution-ascii.svg" alt="contributions">
 </p>
