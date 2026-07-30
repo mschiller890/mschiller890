@@ -1,9 +1,9 @@
 <p align="center">
   <img src="./name.svg" alt="mschiller890">
   <br>
-  <a href="https://your-website.com">page</a> •
-  <a href="https://linkedin.com/in/your-profile">linkedin</a> •
-  <a href="mailto:your@email.com">email</a> •
+  <a href="https://mschiller890.github.io">page</a> •
+  <a href="https://www.linkedin.com/in/michal-schiller-5aaa8b356/">linkedin</a> •
+  <a href="mailto:mschiller890@gmail.com">email</a> •
   <sub>
     <img src="https://komarev.com/ghpvc/?username=mschiller890&label=visits&color=0e0e0e&style=flat" alt="visits">
   </sub>
